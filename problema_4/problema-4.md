@@ -1,9 +1,9 @@
 # Problema No.4
 
-## Descripcion
+### Descripcion
 
 A
 
-## Guia de utilizacion
+### Guia de utilizacion
 
 B
