@@ -1,9 +1,9 @@
 # Problema No.3
 
-## Descripcion
+### Descripcion
 
 A
 
-## Guia de utilizacion
+### Guia de utilizacion
 
 B
